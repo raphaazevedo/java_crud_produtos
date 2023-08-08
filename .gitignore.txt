@@ -1,0 +1,26 @@
+# Comentários começam com um sinal de cerquilha
+
+# Arquivos e pastas específicos
+config.ini
+logs/
+temp/
+
+# Extensões de arquivos
+*.log
+*.tmp
+*.bak
+
+# Pastas
+node_modules/
+build/
+dist/
+.idea/
+.vscode/
+__pycache__/
+
+# Arquivos gerados automaticamente
+.DS_Store
+Thumbs.db
+
+# Dependendo da linguagem e ferramentas que você está usando, você pode adicionar mais
+# padrões para ignorar arquivos temporários, arquivos compilados, caches, etc.
